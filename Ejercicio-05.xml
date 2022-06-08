@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listacompras SYSTEM "Ejercicio-05.dtd">
+<listacompras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio-05.xsd">
+    <venta>
+        <ventainmediata>
+            <cantidad>1</cantidad>
+            <divisa></divisa>
+        </ventainmediata>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <fechafinpago>2021-09-04</fechafinpago>
+            <cantidad>1</cantidad>
+        </ventaacredito>
+    </venta>
+</listacompras>
